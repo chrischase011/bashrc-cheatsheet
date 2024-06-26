@@ -15,4 +15,4 @@ This .bashrc provides shortcut command for:
 You can send pull request to provide more shortcut commands to this .bashrc file.
 
 Prepared by: [Christopher Robin Chase](https://github.com/chrischase011/)
-Software Engineer
+\- Software Engineer
