@@ -1,4 +1,4 @@
-# .bashrc Cheatsheet
+# .bashrc Cheatsheet - Shortcut Commands
 
 My own .bashrc file that you can use in your development. This file can speed-up your development without typing long commands. 
 
