@@ -1,6 +1,6 @@
 # .bashrc Cheatsheet - Shortcut Commands
 
-My own .bashrc file that you can use in your development. This file can speed-up your development without typing long commands. 
+My own .bashrc file uses alias that you can use in your development. This file can speed-up your development without typing long commands. 
 
 __Note:__ You must have __Git Bash__, __WSL__, __Linux OS__, __macOS__ or any platform/software that can run __Bash shell (or a compatible shell)__ to make it work.
 
